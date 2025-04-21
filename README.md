@@ -6,16 +6,6 @@
 
 ###
 
-<h2 align="left">📊 Github Stats:</h2>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=samuelngry&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h2 align="left">💻  Language and Tools:</h2>
 
 ###
