@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📖 studying mechatronics at Singapore Institute of Technology<br>👨‍💻 working on full stack apps</p>
+<p align="left">📖 penultimate student at Singapore Institute of Technology<br>👨‍💻 working on full stack apps</p>
 
 ###
 
